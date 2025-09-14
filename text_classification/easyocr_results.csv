@@ -1,0 +1,71 @@
+text,predicted_field,fuzzy_match_field,final_field,ml_confidence,fuzzy_score,final_confidence,correct,bbox,ocr_confidence,image_name
+11.40 4 D,time_completed,total_sessions,total_sessions,0.9999714,1.0,1.0,True,"(np.int32(962), np.int32(37), np.int32(1175), np.int32(77))",0.6049841856932799,dat_000
+TRUNG TÂM DẠY NGHỀ TƯ THỤC THÀNH CÔNG,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(349), np.int32(101), np.int32(857), np.int32(137))",0.9337821493007092,dat_000
+PHIÊN HỌC HIỆN TẠI,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(669), np.int32(169), np.int32(915), np.int32(205))",0.39326737583029936,dat_000
+0 km/h,instructor_name,distance_completed,instructor_name,1.0,0.22,1.0,False,"(np.int32(693), np.int32(231), np.int32(891), np.int32(293))",0.9922533986914522,dat_000
+00:00.25,instructor_name,time_completed,time_completed,1.0,1.0,1.0,True,"(np.int32(632), np.int32(310), np.int32(706), np.int32(334))",0.6420845360444407,dat_000
+100,instructor_name,total_sessions,total_sessions,1.0,1.0,1.0,True,"(np.int32(392), np.int32(338), np.int32(442), np.int32(362))",0.8782298564910889,dat_000
+0.00 km,instructor_name,distance_completed,distance_completed,1.0,1.0,1.0,True,"(np.int32(611), np.int32(337), np.int32(701), np.int32(357))",0.969424753411013,dat_000
+10.74718773 106.70012965,instructor_name,total_sessions,total_sessions,1.0,1.0,1.0,True,"(np.int32(407), np.int32(367), np.int32(573), np.int32(383))",0.8246705071117317,dat_000
+10.74718773:106.70012965,instructor_name,total_sessions,total_sessions,0.993562,1.0,1.0,True,"(np.int32(630), np.int32(362), np.int32(868), np.int32(386))",0.8397466539553006,dat_000
+BÙl ANH TUẤN,time_remaining,instructor_name,instructor_name,0.9995629,0.92,0.92,True,"(np.int32(1066), np.int32(360), np.int32(1194), np.int32(386))",0.9160599552014198,dat_000
+1140.14,instructor_name,total_sessions,total_sessions,1.0,1.0,1.0,True,"(np.int32(461), np.int32(385), np.int32(519), np.int32(401))",0.39049645002007793,dat_000
+Dữ liệu học viên,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(382), np.int32(426), np.int32(562), np.int32(458))",0.7723909246982642,dat_000
+Học viên,time_completed,,time_completed,1.0,0.0,1.0,False,"(np.int32(879), np.int32(429), np.int32(945), np.int32(449))",0.9852408619159132,dat_000
+MÃ HV:79035-20250513082029960,instructor_name,student_id,student_id,1.0,1.0,1.0,True,"(np.int32(42), np.int32(458), np.int32(342), np.int32(484))",0.8958031574419353,dat_000
+ĐÃ HỌC,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(492), np.int32(470), np.int32(566), np.int32(498))",0.9563999369410225,dat_000
+CÒN LẠl,time_completed,,time_completed,0.96429527,0.0,0.9642952680587769,False,"(np.int32(734), np.int32(472), np.int32(810), np.int32(500))",0.7737756474081953,dat_000
+911.40.14 22/07/2025,time_completed,total_sessions,total_sessions,1.0,1.0,1.0,True,"(np.int32(883), np.int32(457), np.int32(1055), np.int32(477))",0.6327047375926568,dat_000
+NGUYỄN ANH MINH,instructor_name,student_name,student_name,1.0,1.0,1.0,True,"(np.int32(72), np.int32(493), np.int32(311), np.int32(529))",0.9989757358651513,dat_000
+Giáo viên,time_completed,,time_completed,1.0,0.0,1.0,False,"(np.int32(879), np.int32(493), np.int32(947), np.int32(513))",0.9997406632441822,dat_000
+KHOÁ:K21A.B,instructor_name,total_sessions,total_sessions,1.0,1.0,1.0,True,"(np.int32(122), np.int32(542), np.int32(258), np.int32(570))",0.5141231744549721,dat_000
+0.0 km,instructor_name,distance_completed,distance_completed,1.0,1.0,1.0,True,"(np.int32(538), np.int32(526), np.int32(628), np.int32(556))",0.7854236415643042,dat_000
+810.0 km 9 11.39.51 22/07/2025,time_completed,distance_completed,distance_completed,0.99999905,1.0,1.0,True,"(np.int32(714), np.int32(523), np.int32(1055), np.int32(560))",0.6965405545020289,dat_000
+Giờ dêm Giờ AT,time_completed,,time_completed,1.0,0.0,1.0,False,"(np.int32(899), np.int32(561), np.int32(1055), np.int32(581))",0.7109702746418324,dat_000
+KẾT THÚC,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(144), np.int32(584), np.int32(236), np.int32(610))",0.8791771574023708,dat_000
+PHIÊN,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(406), np.int32(586), np.int32(466), np.int32(610))",0.9796737211311949,dat_000
+00:00,instructor_name,time_completed,time_completed,0.9999999,1.0,1.0,True,"(np.int32(544), np.int32(576), np.int32(622), np.int32(608))",0.5568309374093351,dat_000
+19:59,time_completed,time_remaining,time_remaining,0.9837812,1.0,1.0,True,"(np.int32(738), np.int32(576), np.int32(814), np.int32(608))",0.5662748772882001,dat_000
+00:00 00:00,time_completed,time_completed,time_completed,1.0,1.0,1.0,True,"(np.int32(889), np.int32(597), np.int32(1073), np.int32(633))",0.9512028425364545,dat_000
+IMEI:572345801024065,time_completed,total_sessions,total_sessions,0.9783427,1.0,1.0,True,"(np.int32(631), np.int32(660), np.int32(872), np.int32(684))",0.9992711184297252,dat_000
+51K27637,instructor_name,vehicle_plate,vehicle_plate,1.0,1.0,1.0,True,"(np.int32(124), np.int32(664), np.int32(254), np.int32(694))",0.8857943644694435,dat_000
+DAT,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(455), np.int32(663), np.int32(547), np.int32(707))",0.9985396654974351,dat_000
+Serial:167052e615e9deb7,time_completed,total_sessions,total_sessions,0.98021084,1.0,1.0,True,"(np.int32(633), np.int32(680), np.int32(880), np.int32(704))",0.9933790007997877,dat_000
+GPTL,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(45), np.int32(699), np.int32(95), np.int32(719))",0.9999225735664368,dat_000
+Hạng,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(160), np.int32(698), np.int32(212), 721)",0.9915308952331543,dat_000
+Hết han,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(268), np.int32(698), np.int32(340), 721)",0.9486591918653333,dat_000
+Data:0 bản ghi chưa qửi,time_completed,student_id,time_completed,0.959616,0.04,0.9596160054206848,False,"(np.int32(631), np.int32(697), np.int32(866), 721)",0.6274926493920343,dat_000
+17.09 18,instructor_name,distance_remaining,instructor_name,1.0,0.67,1.0,False,"(np.int32(881), np.int32(155), np.int32(1018), np.int32(194))",0.6396859897592241,dat_001
+TRUNG TÂM DẠY NGHỀ TƯ THỤC THÀNH CÔNG,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(295), np.int32(187), np.int32(782), np.int32(238))",0.7458691345955569,dat_001
+PHIÊN HỌC HIỆN TẠl,instructor_name,,instructor_name,1.0,0.0,1.0,False,"(np.int32(601), np.int32(269), np.int32(835), np.int32(311))",0.7082788006874609,dat_001
+0 km/h,instructor_name,total_sessions,instructor_name,1.0,0.25,1.0,False,"(np.int32(619), np.int32(331), np.int32(809), np.int32(394))",0.8508474740004689,dat_001
+037,time_completed,student_id,time_completed,0.93432236,0.67,0.9343223571777344,False,"(np.int32(335), np.int32(399), np.int32(375), np.int32(419))",0.9989111909671528,dat_001
+03.00.06,time_completed,distance_remaining,distance_remaining,0.9950134,1.0,1.0,True,"(np.int32(560), np.int32(404), np.int32(632), np.int32(428))",0.9654227999608538,dat_001
+1002 095 09  41.78 km,time_completed,total_sessions,total_sessions,0.9998665,1.0,1.0,True,"(np.int32(331), np.int32(425), np.int32(636), np.int32(452))",0.6778305458228236,dat_001
+10.6/771078 106 15310445,time_completed,total_sessions,total_sessions,0.4996131,1.0,1.0,True,"(np.int32(342), np.int32(450), np.int32(505), np.int32(469))",0.4697409025527828,dat_001
+70.67771078  106.75310445,time_completed,total_sessions,total_sessions,0.9978199,1.0,1.0,True,"(np.int32(555), np.int32(451), np.int32(784), np.int32(482))",0.7125720998879349,dat_001
+1709.25,time_remaining,time_completed,time_remaining,0.50621116,0.67,0.5062111616134644,False,"(np.int32(397), np.int32(471), np.int32(451), np.int32(487))",0.44610973160145123,dat_001
+NGUYỄN ĐỨC BACH,time_completed,instructor_name,instructor_name,0.96622646,0.97,0.97,True,"(np.int32(952), np.int32(468), np.int32(1110), np.int32(496))",0.7875910858767696,dat_001
+MÃ HV:79035-20250530135116550 Dữ liệu học viên,time_completed,student_id,student_id,0.5476567,0.95,0.95,True,"(0, np.int32(508), np.int32(492), np.int32(564))",0.7192649122835147,dat_001
+Hoc vỉên,time_completed,,time_completed,0.9999796,0.0,0.9999796152114868,False,"(np.int32(791), np.int32(525), np.int32(855), np.int32(545))",0.8020690995087202,dat_001
+LÊMINH THUẬN,instructor_name,student_name,student_name,0.99981576,0.96,0.96,True,"(np.int32(37), np.int32(565), np.int32(229), np.int32(607))",0.9986849027856506,dat_001
+ĐÃ HỌC,time_completed,,time_completed,0.99643505,0.0,0.9964350461959839,False,"(np.int32(424), np.int32(556), np.int32(494), np.int32(582))",0.8526974355216229,dat_001
+CÒN LAI,time_completed,,time_completed,0.99983096,0.0,0.999830961227417,False,"(np.int32(652), np.int32(560), np.int32(727), np.int32(591))",0.5604947302770769,dat_001
+Giáo a 1409 25 22/07/2025 viên,instructor_name,student_id,instructor_name,0.5007418,0.23,0.5007417798042297,False,"(np.int32(791), np.int32(552), np.int32(962), np.int32(609))",0.5032594493180138,dat_001
+KHOÁ:KO6A.C1,instructor_name,total_sessions,instructor_name,0.9842998,0.67,0.9842997789382935,False,"(np.int32(66), np.int32(614), np.int32(194), np.int32(642))",0.7865946009220689,dat_001
+10 829.0 km,time_completed,distance_completed,distance_completed,0.99781716,1.0,1.0,True,"(np.int32(336), np.int32(610), np.int32(568), np.int32(658))",0.997918045356957,dat_001
+0.0 km,time_completed,distance_remaining,distance_remaining,0.9996464,1.0,1.0,True,"(np.int32(646), np.int32(616), np.int32(736), np.int32(648))",0.9227467586794461,dat_001
+07.06.34 22/07/2025,time_completed,distance_remaining,time_completed,0.9999795,0.67,0.9999794960021973,False,"(np.int32(806), np.int32(616), np.int32(960), np.int32(642))",0.9085668765069327,dat_001
+KET THÚC,instructor_name,,instructor_name,0.9903847,0.0,0.9903846979141235,False,"(np.int32(84), np.int32(654), np.int32(174), np.int32(682))",0.4141785371709175,dat_001
+PHIÊN,time_completed,,time_completed,0.90297353,0.0,0.9029735326766968,False,"(np.int32(336), np.int32(666), np.int32(394), np.int32(690))",0.7406115512194105,dat_001
+25.20,time_completed,time_completed,time_completed,0.99952495,1.0,1.0,True,"(np.int32(466), np.int32(655), np.int32(545), np.int32(691))",0.6702315888307833,dat_001
+00:00,time_completed,time_remaining,time_remaining,0.9992507,1.0,1.0,True,"(np.int32(652), np.int32(664), np.int32(728), np.int32(696))",0.9202896360306708,dat_001
+Giờ dềm Glờ AT,time_completed,,time_completed,0.99998856,0.0,0.9999885559082031,False,"(np.int32(807), np.int32(655), np.int32(957), np.int32(679))",0.7374056585682178,dat_001
+02:02 02:00,time_completed,time_remaining,time_remaining,0.9997738,0.8,0.8,True,"(np.int32(799), np.int32(689), np.int32(972), np.int32(726))",0.7894901619363404,dat_001
+51019675,instructor_name,total_sessions,total_sessions,0.99992716,1.0,1.0,True,"(np.int32(62), np.int32(729), np.int32(191), np.int32(767))",0.9885963925974566,dat_001
+DAT,time_completed,,time_completed,0.845755,0.0,0.8457549810409546,False,"(np.int32(381), np.int32(741), np.int32(469), np.int32(785))",0.9992933330686811,dat_001
+IMEI:572345520178507,time_completed,student_id,time_completed,0.99500126,0.29,0.9950012564659119,False,"(np.int32(549), np.int32(741), np.int32(780), np.int32(773))",0.9896740653038864,dat_001
+PIL,instructor_name,,instructor_name,0.9999912,0.0,0.9999911785125732,False,"(0, np.int32(762), np.int32(36), np.int32(786))",0.8516994828448302,dat_001
+Hạng C1,instructor_name,total_sessions,instructor_name,0.999998,0.67,0.9999979734420776,False,"(np.float64(94.12652114433655), np.float64(763.1867537178289), np.float64(149.87347885566345), np.int32(809))",0.8600168628620978,dat_001
+2026-12-26 Hẽt hạn version:2025.04.25.22.11 Data Serial:Free:743ab93d175/704a 0 bản ghi chưa gúi 16 28 GB,instructor_name,distance_remaining,instructor_name,0.9546447,0.67,0.9546446800231934,False,"(np.int32(183), np.int32(761), np.int32(782), np.int32(826))",0.6038801344529028,dat_001
+BRAS,time_completed,,time_completed,0.5862721,0.0,0.586272120475769,False,"(np.int32(488), np.int32(846), np.int32(648), np.int32(896))",0.7979603409767151,dat_001

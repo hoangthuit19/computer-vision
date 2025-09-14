@@ -1,0 +1,23 @@
+============================================================
+OCR MODEL RESULTS SUMMARY
+============================================================
+
+Processing Time: 0.81 seconds
+Total Images Processed: 100
+FIELD-SPECIFIC ACCURACY:
+----------------------------------------
+Student Name        : 51/100 ( 51.0%)
+Student Id          : 49/100 ( 49.0%)
+Vehicle Plate       : 66/100 ( 66.0%)
+Instructor Name     : 82/100 ( 82.0%)
+Distance Completed  : 79/100 ( 79.0%)
+Time Completed      : 70/100 ( 70.0%)
+Distance Remaining  : 77/100 ( 77.0%)
+Time Remaining      : 59/100 ( 59.0%)
+Total Sessions      : 51/100 ( 51.0%)
+
+Overall Accuracy: 64.89%
+
+============================================================
+END OF REPORT
+============================================================
