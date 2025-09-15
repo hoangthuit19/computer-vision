@@ -1,0 +1,33 @@
+TOÀN BỘ KÝ TỰ ĐƯỢC TRÍCH XUẤT TỪ HÌNH ẢNH
+============================================================
+
+TEXT GỐC:
+1. 51K62245 DAT 1
+2. 70 07
+3. 0 km/h
+4. 1 Taan Viet hai 268, 6 517.1 kmn 292 9 kmn
+5. 24414 13-01 06.58 01-09 0o-00
+6. TEMP
+7. 7oo (r)f' - 1747234*2 Jot 7001281n Tpinh Mina DUONG
+8. PHIEN HOC HIÊN TaI
+9. BRAS
+10. Vhy 70115 702354 1 1l25 / Dữlleu hoc vlen Da Moc Cohl4
+11. TRUNG TaM Day NGHETUTHUC THANH CONG
+
+TEXT SAU KHI CẢI TIẾN:
+1. TRUNG TaM Day NGHETUTHUC Thành CONG
+2. zaaia ie-oi og.sb oi-og oo-oo
+3. TEMP
+4. Vhy toiis tozesa i ilzs / Dữlleu hoc vlen Da Moc Cohla
+5. PHIEN HOC HIÊN TaI
+6. i Taan Viet hải zgb, g sit.i kmn zgz g kmn
+7. siKgzzas DAT i
+8. BRAS
+9. too (r)f' - itatzea*z Jot tooizbin Tpinh Mina DƯƠNG
+10. o km/h
+11. to ot
+
+THỜI GIAN: []
+NGÀY THÁNG: []
+CÁC SỐ: []
+TỪ TIẾNG VIỆT: ['Dữlleu', 'HIÊN', 'Thành', 'DƯƠNG', 'hải']
