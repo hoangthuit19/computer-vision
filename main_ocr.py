@@ -98,27 +98,27 @@ class SimpleOCRProcessor:
             print(f"Saved: {base_name}_04_preprocessed.jpg")
             
             # Step 5: Draw regions on processed image
-            regions_image = processed_image.copy()
-            colors = [(0, 255, 0), (255, 0, 0), (0, 0, 255), (255, 255, 0), 
-                     (255, 0, 255), (0, 255, 255), (128, 0, 128), (255, 165, 0), (0, 128, 0)]
+            # regions_image = processed_image.copy()
+            # colors = [(0, 255, 0), (255, 0, 0), (0, 0, 255), (255, 255, 0), 
+            #          (255, 0, 255), (0, 255, 255), (128, 0, 128), (255, 165, 0), (0, 128, 0)]
             
-            for i, (region_name, bbox) in enumerate(self.regions.items()):
-                x1, y1, x2, y2 = bbox
-                color = colors[i % len(colors)]
-                cv2.rectangle(regions_image, (x1, y1), (x2, y2), color, 2)
-                cv2.putText(regions_image, region_name, (x1, y1-10), 
-                           cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 1)
+            # for i, (region_name, bbox) in enumerate(self.regions.items()):
+            #     x1, y1, x2, y2 = bbox
+            #     color = colors[i % len(colors)]
+            #     cv2.rectangle(regions_image, (x1, y1), (x2, y2), color, 2)
+            #     cv2.putText(regions_image, region_name, (x1, y1-10), 
+            #                cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 1)
             
-            cv2.imwrite(f"{save_dir}/{base_name}_05_regions_marked.jpg", regions_image)
-            print(f"Saved: {base_name}_05_regions_marked.jpg")
+            # cv2.imwrite(f"{save_dir}/{base_name}_05_regions_marked.jpg", regions_image)
+            # print(f"Saved: {base_name}_05_regions_marked.jpg")
             
-            print(f"All visualization images saved in: {save_dir}/")
+            # print(f"All visualization images saved in: {save_dir}/")
             return {
                 'original': original_image,
                 'dat_cropped': dat_interface,
                 'normalized': normalized_dat,
                 'preprocessed': processed_image,
-                'regions_marked': regions_image
+                # 'regions_marked': regions_image
             }
             
         except Exception as e:
@@ -1126,7 +1126,7 @@ def test_visualization():
     processor = SimpleOCRProcessor()
     
     # Test with dat_000.jpg
-    test_image = "images/dat_013.jpg"  # Replace with your image path
+    test_image = "images/dat_066.jpg"  # Replace with your image path
     if os.path.exists(test_image):
         print("Running visualization test...")
         images = processor.visualize_processing_steps(test_image)
