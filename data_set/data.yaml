@@ -8,6 +8,6 @@ names: ['distance_completed', 'distance_remaining', 'instructor_name', 'student_
 roboflow:
   workspace: bxc
   project: ocr_dat_screenshot-a6yyn
-  version: 2
+  version: 4
   license: CC BY 4.0
-  url: https://universe.roboflow.com/bxc/ocr_dat_screenshot-a6yyn/dataset/2
+  url: https://universe.roboflow.com/bxc/ocr_dat_screenshot-a6yyn/dataset/4
