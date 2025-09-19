@@ -1126,7 +1126,7 @@ def test_visualization():
     processor = SimpleOCRProcessor()
     
     # Test with dat_000.jpg
-    test_image = "images/dat_066.jpg"  # Replace with your image path
+    test_image = "images/dat_016.jpg"  # Replace with your image path
     if os.path.exists(test_image):
         print("Running visualization test...")
         images = processor.visualize_processing_steps(test_image)
