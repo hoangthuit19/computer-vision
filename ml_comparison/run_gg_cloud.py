@@ -3,7 +3,7 @@ from main_ocr import SimpleOCRProcessor
 
 if __name__ == "__main__":
     processor = SimpleOCRProcessor()
-    test_image = "../test_img/dat_014.jpg"
+    test_image = "../test_img/dat_016.jpg"
 
     # Khởi tạo pipeline với YOLO model
     pipeline = YOLOGoogleVisionPipeline(yolo_model_path="../models/text_detector.pt", conf=0.25, processor=processor)

@@ -115,7 +115,7 @@ class YOLOGoogleVisionPipeline:
             
         evaluator = AccuracyEvaluator("../data.csv")
         
-        acc = evaluator.calculate_accuracy(outputs, "dat_014")
+        acc = evaluator.calculate_accuracy(outputs, "dat_016")
         print(f"Accuracy: {acc:.2f}%")
 
         return image, outputs
