@@ -1,0 +1,23 @@
+============================================================
+BASELINE OCR MODEL RESULTS
+============================================================
+
+Processing Time: 2.36 seconds
+Total Images Processed: 100
+Overall Accuracy: 0.00%
+
+FIELD-WISE ACCURACY:
+------------------------------
+Student Name: 0.00%
+Student Id: 0.00%
+Vehicle Plate: 0.00%
+Instructor Name: 0.00%
+Distance Completed: 0.00%
+Time Completed: 0.00%
+Distance Remaining: 0.00%
+Time Remaining: 0.00%
+Total Sessions: 0.00%
+
+============================================================
+END OF REPORT
+============================================================
